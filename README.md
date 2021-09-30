@@ -1,2 +1,2 @@
 # Material Theme Website
-Source of the Material Theme site.
+Source code of the Material Theme site.
